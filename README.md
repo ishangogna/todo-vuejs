@@ -1,2 +1,2 @@
 # todo-vuejs
-Simple Todo list.
+Simple Todo list using VueX
