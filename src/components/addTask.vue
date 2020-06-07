@@ -21,6 +21,7 @@ export default {
         //   this.$store.state.tasks.push(this.registerTask);
         this.$store.dispatch('addTask',this.registerTask);
       }
+      
   }
 }
 </script>
