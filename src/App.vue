@@ -3,8 +3,10 @@
     <app-header></app-header>
     
     <add-task></add-task>
-    <hr>
+    
     <show-task></show-task>
+
+    <app-footer></app-footer>
     
   </div>  
 </template>

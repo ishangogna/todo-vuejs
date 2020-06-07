@@ -1,6 +1,6 @@
 <template>
   <footer>
-      <h1>Made with love by Ishan Gogna</h1>
+      <h2>Made with love by Ishan Gogna</h2>
   </footer>
 </template>
 
@@ -18,8 +18,14 @@ export default {
 <style scoped>
 
 footer {
-    background: #eee;
+    position: fixed;
+    bottom:0;
+    right:0;
     text-align: center;
+    width:100%;
+    background-color: #eee;
+
+
 
     
     

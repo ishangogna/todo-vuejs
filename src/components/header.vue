@@ -18,8 +18,13 @@ export default {
 <style scoped>
 
 header {
-    background: #eee;
+    top: 0;
+    width: 100%;
+    background-color: #eee;
     text-align: center;
+
+    
+
     
 }
 
